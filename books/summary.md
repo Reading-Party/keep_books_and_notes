@@ -4,6 +4,9 @@
 
 - 操作系统的哲学原理
 - 机器学习（西瓜书）
+- Clean Architecture
+- Clean Code
+- Designing Data Intensive Application
 
 
 ## 科技人文
@@ -13,6 +16,7 @@
 - 系统性思维导论
 - 精进
 - 精神的家园
+- 认知神经学：关于心智的生物学
 
 ## 历史小说
 
